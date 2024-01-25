@@ -5,7 +5,7 @@
 <img alt="JavaScript" src="https://camo.githubusercontent.com/0d61458680d0251da6e466fb5e30a5650d15d0239c68482920d00de83961daa4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a617661536372696970742d4637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&amp;style=for-the-badge&amp;logo=JavaScript&amp;logoColor=black" style="max-width: 100%;">
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/spring-4479A1?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/spring-7FFF00?style=for-the-badge&logo=spring&logoColor=white">
 
 </div>
 
