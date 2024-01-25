@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello bros i'm jinsu from BUSAN,South Korea 👋
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img alt="JavaScript" src="https://camo.githubusercontent.com/0d61458680d0251da6e466fb5e30a5650d15d0239c68482920d00de83961daa4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a617661536372696970742d4637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&amp;style=for-the-badge&amp;logo=JavaScript&amp;logoColor=black" style="max-width: 100%;">
 
 <!--
 **Kira7124/Kira7124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
