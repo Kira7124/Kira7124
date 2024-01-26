@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/html5-ffa07a?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-afeeee?style=for-the-badge&logo=html5&logoColor=white"><br>
 <img src="https://img.shields.io/badge/amazonaws-ffa07a?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-4169e1?style=for-the-badge&logo=jquery&logoColor=white">
 
 
 
