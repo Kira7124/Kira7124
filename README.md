@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/spring-7FFF00?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-006400?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/springsecurity-008B8B?style=for-the-badge&logo=springsecurity&logoColor=white"><br>
-<img src="https://img.shields.io/badge/github-008B8B?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/github-a9a9a9?style=for-the-badge&logo=github&logoColor=white">
 
 
 
