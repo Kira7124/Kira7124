@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/eclipseide-4b0082?style=for-the-badge&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/dbeaver-fffacd?style=for-the-badge&logo=dbeaver&logoColor=black">
 <img src="https://img.shields.io/badge/bootstrap-ba55d3?style=for-the-badge&logo=bootstrap&logoColor=black">
+<img src="https://img.shields.io/badge/html5-ffa07a?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-afeeee?style=for-the-badge&logo=html5&logoColor=white">
 
 
 
